@@ -1,0 +1,30 @@
+{
+    "bin": {
+        "chc": "bin/chc.js"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "mocha": "^3.3.0"
+    },
+    "directories": {},
+    "scripts": {
+        "test": "mocha"
+    },
+    "name": "chc",
+    "version": "0.0.1",
+    "main": "CharSet.js",
+    "keywords": [
+        "character-class"
+    ],
+    "homepage": "https://github.com/YounGoat/ecmascript.chc",
+    "description": "Character Classes",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/YounGoat/ecmascript.chc.git"
+    },
+    "author": {
+        "name": "YounGoat",
+        "email": "youngoat@163.com",
+        "url": "https://youngoat.github.io"
+    }
+}
